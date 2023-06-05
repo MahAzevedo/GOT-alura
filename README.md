@@ -19,7 +19,8 @@ Pode ser por um único jeito, porém, aqui, usei dois:
 
 Extraído de JavaScript: manipulando o DOM, por Pedro Marins, instrutor Alura:
 
-aula: 07 - Para saber mais: selecionando elementos
+aula: 01
+Exercício 07 - Para saber mais: selecionando elementos.
 
 O DOM (Document Object Model) e o JavaScript, juntos, possuem grande poder de modificar dinamicamente a estrutura de um documento HTML. Sendo possível, por exemplo:
 
