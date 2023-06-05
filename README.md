@@ -15,7 +15,6 @@ Pode ser por um único jeito, porém, aqui, usei dois:
 .
 .
 .
-.
 
 Extraído de JavaScript: manipulando o DOM, por Pedro Marins, instrutor Alura:
 
